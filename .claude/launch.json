@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "deck",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": ["C:\\Users\\nora\\AppData\\Local\\Temp\\claude\\C--Users-nora-Documents-GitHub-TargetPPT\\9b6c3a4d-99d8-4cb8-a258-b7119e81e1c0\\scratchpad\\serve.mjs", "C:\\Users\\nora\\Documents\\GitHub\\TargetPPT", "4400"],
+      "port": 4400
+    }
+  ]
+}
